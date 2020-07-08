@@ -438,6 +438,12 @@ li{
     /*background-color: #221e3f;*/
 }
 
+.contact .section-heading p{
+    font-size: 3rem;
+    font-weight: 300;
+    margin: 1rem 0;
+}
+
 form{
     width: 70%;
     margin: 0 auto;
